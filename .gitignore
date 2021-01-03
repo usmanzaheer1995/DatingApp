@@ -418,6 +418,8 @@ ehthumbs_vista.db
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+ssl
+
 # Windows Installer files
 *.cab
 *.msi
