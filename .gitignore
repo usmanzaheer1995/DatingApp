@@ -444,3 +444,5 @@ ssl
 !.vscode/extensions.json
 
 appsettings.json
+/API/datingapp.db-shm
+/API/datingapp.db-wal
